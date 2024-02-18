@@ -28,17 +28,10 @@ To run this app locally, follow these steps:
 3. Install dependencies:
    ```bash
    npm install
-4. Install the FontAwesome package:
-   ```bash
-   npm install --save @fortawesome/fontawesome-svg-core
-   npm install --save @fortawesome/free-solid-svg-icons
-   npm install --save @fortawesome/free-regular-svg-icons
-   npm install --save @fortawesome/free-brands-svg-icons
-   npm install --save @fortawesome/react-fontawesome@latest
-5. Start the server:
+4. Start the server:
    ```bash
    npm run dev
-6. Open your browser and navigate to  `http://localhost:5173`
+5. Open your browser and navigate to  `http://localhost:5173`
 
 ##  Usage
 
